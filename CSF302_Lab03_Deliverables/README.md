@@ -22,7 +22,7 @@ Multiply two square matrices using:
 | 64 | 0.023333 | 0.116459 | True |
 
 ## Screenshot / Graph
-
+![alt text](../../image.png)
 ![Q1 Matrix Multiplication Results](q1_matrix_time.png)
 
 ## Result
@@ -61,6 +61,7 @@ Multiply large integers using:
 
 ## Screenshot / Graph
 
+![alt text](<../../image copy.png>)
 ![Q2 Karatsuba Results](q2_karatsuba_time.png)
 
 ## Result
