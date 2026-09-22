@@ -1,0 +1,10 @@
+n,Binary_absent_comparisons,Ternary_absent_comparisons
+8,3,4
+16,4,6
+32,5,6
+64,6,8
+128,7,10
+256,8,10
+512,9,12
+1024,10,12
+2048,11,14
